@@ -20,6 +20,6 @@ The tools directory includes some common scripts that may be helpful in interpre
 
 In addition to these basic import/export tools some sensor axis testing scripts are made available in the Validation sub-directory. <I>TALK TO BEN IF INTERESTED IN THIS WORK</I>
 
-Documentation
+Documents
 -----
 This section should include any documents/summaries/papers relevant to our calibration work. A previous calibration-based publication is included for now.
