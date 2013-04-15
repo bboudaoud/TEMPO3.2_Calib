@@ -1,0 +1,145 @@
+{
+    "node_id": "TEMPO3.2F-DUMMY", 
+    "serial": 1, 
+    "session_info": {
+        "status": "closed on charger", 
+        "calibration": {
+            "z_axis_pos": 0, 
+            "x_plane_pos": 0, 
+            "y_plane_neg": 0, 
+            "y_plane_zeros": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "z_plane_neg": 0, 
+            "x_plane_zeros": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "serial": 0, 
+            "y_plane_pos": 0, 
+            "y_axis_zeros": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "y_axis_neg": 0, 
+            "x_y_gyro_correction": 0, 
+            "clock_calib_seconds": 0, 
+            "x_axis_zeros": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "x_plane_neg": 0, 
+            "z_gyro_correction": 0, 
+            "x_axis_neg": 0, 
+            "z_plane_pos": 0, 
+            "clock_calib_32kHz_ticks": 0, 
+            "x_axis_pos": 0, 
+            "z_plane_zeros": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "is_valid": false, 
+            "z_axis_zeros": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "z_axis_neg": 0, 
+            "y_axis_pos": 0
+        }, 
+        "start_time": "2013-03-25T18:45:21.215625", 
+        "channels": [
+            {
+                "sensor": "accelerometer", 
+                "name": "X_accel", 
+                "samp_rate": 128
+            }, 
+            {
+                "sensor": "accelerometer", 
+                "name": "Y_accel", 
+                "samp_rate": 128
+            }, 
+            {
+                "sensor": "accelerometer", 
+                "name": "Z_accel", 
+                "samp_rate": 128
+            }, 
+            {
+                "sensor": "gyroscope", 
+                "name": "X_gyro", 
+                "samp_rate": 128
+            }, 
+            {
+                "sensor": "gyroscope", 
+                "name": "Y_gyro", 
+                "samp_rate": 128
+            }, 
+            {
+                "sensor": "gyroscope", 
+                "name": "Z_gyro", 
+                "samp_rate": 128
+            }
+        ], 
+        "node_id": "TEMPO3.2F-DUMMY", 
+        "end_time": "2013-03-25T18:45:49.782031", 
+        "duration": "0:00:28.566406", 
+        "serial": 1, 
+        "firmware_version": "3.2.5.1.F"
+    }, 
+    "project_info": {
+        "collab_contact": {
+            "affiliation": "", 
+            "email": "", 
+            "phone": "", 
+            "name": ""
+        }, 
+        "description": "", 
+        "tech_contact": {
+            "affiliation": "", 
+            "email": "", 
+            "phone": "", 
+            "name": ""
+        }, 
+        "name": ""
+    }, 
+    "node_info": {
+        "node_placement": {
+            "location": "", 
+            "side": ""
+        }, 
+        "subject": {
+            "sub_id": "", 
+            "description": ""
+        }, 
+        "deployment": {
+            "collab_contact": {
+                "affiliation": "", 
+                "email": "", 
+                "phone": "", 
+                "name": ""
+            }, 
+            "description": "", 
+            "tech_contact": {
+                "affiliation": "", 
+                "email": "", 
+                "phone": "", 
+                "name": ""
+            }, 
+            "facility": ""
+        }
+    }, 
+    "notes": "", 
+    "annotations": []
+}

@@ -1,0 +1,20 @@
+TEST FILE
+MyDeployment
+This is a test deployment file designed for setting up several node level tests
+
+#test comments can be here
+
+Node List: 105, 110
+
+
+
+# A test line
+
+BEGIN
+
+#one more test line
+sessLen: 128, 1
+
+sessRange: [0 0 0 0 0 0], [4096 4096 4096 4000 4000 4096]
+sessSpectral: 128, [10, 10, 10, 10, 10, 10], [20, 20, 20, 20, 20,20]
+END
