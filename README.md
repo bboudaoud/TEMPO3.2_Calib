@@ -7,7 +7,7 @@ This repo is designed to allow INERTIA team members to share progress on TEMPO 3
 
 Data
 -----
-Here data sessions can be stored. (TODO: Upload some calib sessions here)
+Here data sessions can be stored. Currently this repo contains only a brief calib session performed on node 116 for the sake of gyro calibration.
 
 <B>NOTE:</B> The sessions logged here should either have their offloaded session names and JSON files, or should be provided appropriately descriptive names (including node and session number) to avoid calibration session confusion.
 
